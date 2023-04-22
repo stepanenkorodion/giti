@@ -1,0 +1,13 @@
+.pnp
+.pnp.js
+build
+coverage
+.env*
+.DS_Store
+.yarn
+.yarnrc.yml 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Local Netlify folder
+.netlify
